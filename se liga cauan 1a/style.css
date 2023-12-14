@@ -1,0 +1,19 @@
+body {
+
+    background-color: rgb(0, 167, 31);
+}
+
+#bola1 {
+
+ width: 100%;    
+}
+.principal{
+ background: #efefef;;
+ padding: 30px;
+}
+ h1{
+    text-align: center;
+ }
+ p{
+    text-align: center;
+ }
